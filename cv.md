@@ -42,11 +42,10 @@ _Content manager_
 
 2015 - 2016
 
-_Co-founder; Purchasing manager; Chef; Barista_
+_Co-founder; Purchasing manager; Chef_
 
 * Purchasing manager: communication with suppliers, control of stocks, sale of goods.<br>
 * Chef: development of the menu for the point of sale and for catering; work in the kitchen, purchase of products, control of residues, training of new employees, development and creation of new recipes.<br>
-* Barista: POS coffee making, training new employees in the art of making good coffee.<br>
 
 
 -----------------------------------------------------
