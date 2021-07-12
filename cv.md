@@ -158,3 +158,5 @@ http://www.lesson42.by/, Web designer
 ## 💬 Languages:
 
 **English**: B1 <br>
+**German**: A1 <br>
+**Russian**: Native <br>
